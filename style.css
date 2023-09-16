@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("IMAGES/ict img.jpg");
+    background-size: cover;   
+    /* background-repeat: no-repeat; */
+}
+ header {
+        background-color: black;
+        height: 60px;
+    }
+
+.navigation{
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    }
+.navigation a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+#logo{
+    margin-left: 10%;
+    margin-top: 0.8%; 
+    width: 50px;
+    height: 50px;
+}
+
+/*aside styling start*/
+.side{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+    float: left;
+}
+
+.side li{
+    padding: 2px;
+    list-style: square;
+}
+/*aside styling end*/
+/*login styling start*/
+.my_login{
+    border: 2px solid red;
+    float: right;
+    margin-top: -233px;
+    margin-right: 50px;
+    background-color: beige;
+    height: 15em;
+    padding: 30px;
+    margin-right: 20px;
+    
+}
+
+.my_login h2{
+    text-align: center;
+}
+
+#logg{
+    background-color: dodgerblue;
+    width: 200px;
+    border: none;
+    height: 1.5em;
+    color: white;
+}
+
+/*login styling end*/
+
+.p-box{
+    width:40%;
+    float: left;
+    color: bisque;
+    border: 2px solid red;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 200px;
+    
+
+}
+
+.p-box{
+    width:30%;
+    float: left;
+    color: bisque;
+    border: 2px solid red;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 200px;
+    
+
+}
+
+
+.p-box{
+    width:30%;
+    float: left;
+    color: bisque;
+    border: 2px solid red;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+
+.p-box{
+    width:20%;
+    float: left;
+    color: bisque;
+    border: 2px solid red;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
